@@ -1,0 +1,22 @@
+body{
+ background-color: aquamarine;
+ 
+}
+
+.login-form {
+    width: 350px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position:absolute;
+    color:black;
+    
+}
+.login-form button {
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 40%;
+
+}
+
+
