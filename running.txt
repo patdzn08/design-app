@@ -1,0 +1,2 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                              NAMES
+28118c414ea6        loginapp            "/bin/sh -c 'python …"   5 minutes ago       Up 5 minutes        5050/tcp, 0.0.0.0:8080->8080/tcp   loginrunning
